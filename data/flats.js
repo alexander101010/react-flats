@@ -7,6 +7,7 @@ const flats = [
     priceCurrency: "EUR",
     lat: 48.884211,
     lng: 2.34689,
+    id: 1,
   },
   {
     name: "Trendy Apt in Buttes Montmartre",
@@ -16,6 +17,7 @@ const flats = [
     priceCurrency: "EUR",
     lat: 48.885707,
     lng: 2.343543,
+    id: 2,
   },
   {
     name: "Super 60m2 in trendy neighborhood!",
@@ -25,6 +27,7 @@ const flats = [
     priceCurrency: "EUR",
     lat: 48.885312,
     lng: 2.341225,
+    id: 3,
   },
   {
     name: "Splendide terrasse vue imprenable",
@@ -34,6 +37,7 @@ const flats = [
     priceCurrency: "EUR",
     lat: 48.88184,
     lng: 2.343371,
+    id: 4,
   },
   {
     name: "Superbe vue à 2 min du Sacré Coeur",
@@ -43,6 +47,7 @@ const flats = [
     priceCurrency: "EUR",
     lat: 48.888839,
     lng: 2.339208,
+    id: 5,
   },
   {
     name: "Bohemian and Chic in Paris",
@@ -52,6 +57,7 @@ const flats = [
     priceCurrency: "EUR",
     lat: 48.827855,
     lng: 2.350774,
+    id: 6,
   },
 ];
 
